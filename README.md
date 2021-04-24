@@ -1,5 +1,7 @@
 # Four Hands
 
+## Team Name : Spartans
+
 ## Problem : Employment Health
 
 - The focus of our project is to empower the daily wage workers for whom it is daunting to find employment and the people who due to this pandemic cannot find people to do their household chores or some construction task at our home. 

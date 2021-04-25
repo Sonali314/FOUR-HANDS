@@ -1,0 +1,41 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:eu-west-1:523932928316:function:0f2b1fc2-075e-406f-b7ff-97c67ad112ca:Release_0"
+        },
+        "interfaces": [],
+        "regions": {
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:523932928316:function:0f2b1fc2-075e-406f-b7ff-97c67ad112ca:Release_0"
+            }
+          },
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:523932928316:function:0f2b1fc2-075e-406f-b7ff-97c67ad112ca:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:523932928316:function:0f2b1fc2-075e-406f-b7ff-97c67ad112ca:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "en-IN": {
+          "name": "workers list"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}
